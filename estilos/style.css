@@ -26,15 +26,15 @@ main {
 
 #container {
     background-color: white;
-    width: 375px;
-    height: 600px;
+    width: 350px;
+    height: 535px;
     border-radius: 15px;
 }
 
 .image > img {
     display: block;
-    margin: 37px auto 0 auto;
-    width: 80%;
+    margin: 30px auto 0 auto;
+    width: 85%;
     border-radius: 10px;   
 }
 
@@ -48,6 +48,6 @@ main {
     font-family: var(--texto);
     font-weight: lighter;
     text-align: center;
-    padding: 25px 20px 20px 20px;
+    padding: 0 20px;
     opacity: 50%;
 }
